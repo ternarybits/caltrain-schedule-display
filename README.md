@@ -7,7 +7,7 @@ The [Caltrain bike station](http://bikehub.com/caltrain-bike-station/) in SF had
 
 ## Usage
 
-1. Drag `bookmarklet.js` to you bookmarks bar.
+1. Save [the content](https://raw.githubusercontent.com/ternarybits/caltrain-schedule-display/master/bookmarklet.js) of `bookmarklet.js` as a new bookmark.
 2. Navigate to the [Caltrain real-time schedule](http://www.caltrain.com/schedules/realtime/stations/sanfranciscostation-mobile.html).
 3. Run the bookmarklet by clicking on it.
 
